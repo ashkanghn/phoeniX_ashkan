@@ -1,11 +1,11 @@
 [*]
 [*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
-[*] Fri Jan 19 15:55:38 2024
+[*] Sun Jun 23 22:41:27 2024
 [*]
-[dumpfile] "C:\Users\ASUS\OneDrive\Desktop\RV32-Core\phoeniX.vcd"
-[dumpfile_mtime] "Fri Jan 19 15:55:33 2024"
-[dumpfile_size] 124242
-[savefile] "C:\Users\ASUS\OneDrive\Desktop\RV32-Core\phoeniX.gtkw"
+[dumpfile] "C:\Users\ashgh\OneDrive\Documents\GitHub\phoeniX_Pouria\phoeniX.vcd"
+[dumpfile_mtime] "Sun Jun 23 22:40:39 2024"
+[dumpfile_size] 322996
+[savefile] "C:\Users\ashgh\OneDrive\Documents\GitHub\phoeniX_Pouria\phoeniX.gtkw"
 [timestart] 0
 [size] 1536 793
 [pos] -1 -1
@@ -13,7 +13,6 @@
 [treeopen] phoeniX_Testbench.
 [treeopen] phoeniX_Testbench.uut.
 [treeopen] phoeniX_Testbench.uut.fetch_unit.
-[treeopen] phoeniX_Testbench.uut.genblk1.
 [treeopen] phoeniX_Testbench.uut.load_store_unit.
 [treeopen] phoeniX_Testbench.uut.register_file.
 [sst_width] 288
@@ -323,11 +322,5 @@ phoeniX_Testbench.mcycle[63:0]
 phoeniX_Testbench.minstret[63:0]
 @200
 -
-@24
-phoeniX_Testbench.uut.genblk1.divider_unit.divider_0_result[31:0]
-phoeniX_Testbench.uut.genblk1.divider_unit.divider_0_remainder[31:0]
-@28
-phoeniX_Testbench.uut.genblk1.divider_unit.divider_0_busy
-phoeniX_Testbench.uut.genblk1.divider_unit.divider_unit_busy
 [pattern_trace] 1
 [pattern_trace] 0
